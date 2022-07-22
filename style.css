@@ -1,0 +1,6 @@
+img {
+    border: 3px azure solid;
+    max-height: 300px;
+    display: block;
+    border-radius: 20px;
+}
