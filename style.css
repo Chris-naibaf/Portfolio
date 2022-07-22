@@ -1,6 +1,11 @@
-img {
+#portfoliopic {
     border: 3px azure solid;
     max-height: 300px;
     display: block;
     border-radius: 20px;
+}
+
+.logo {
+    width: 110px;
+    height: 100px;
 }
